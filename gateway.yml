@@ -22,7 +22,7 @@ spring:
         - id: service-showtimes
           uri: lb://service-showtimes
           predicates:
-            - Path=/showtimes/**
+            - Path=/showtime/**
         - id: service-booking
           uri: lb://service-booking
           predicates:
