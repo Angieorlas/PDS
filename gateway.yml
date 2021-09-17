@@ -19,11 +19,11 @@ spring:
           uri: lb://service-user
           predicates:
             - Path=/user/**
-        - id: service-showtime
-          uri: lb://service-showtime
+        - id: service-showtimes
+          uri: lb://service-showtimes
           predicates:
-            - Path=/showtime/**
-            - id: service-booking
+            - Path=/showtimes/**
+        - id: service-booking
           uri: lb://service-booking
           predicates:
             - Path=/booking/**
