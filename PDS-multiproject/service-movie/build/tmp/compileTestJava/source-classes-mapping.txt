@@ -1,0 +1,6 @@
+co/com/poli/servicemovie/ServiceMovieApplicationTests.java
+ co.com.poli.servicemovie.ServiceMovieApplicationTests
+co/com/poli/servicemovie/MovieServerMockTest.java
+ co.com.poli.servicemovie.MovieServerMockTest
+co/com/poli/servicemovie/MovieRepositoryMockTest.java
+ co.com.poli.servicemovie.MovieRepositoryMockTest

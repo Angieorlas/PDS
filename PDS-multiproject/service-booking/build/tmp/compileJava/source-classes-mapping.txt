@@ -1,0 +1,4 @@
+co/com/poli/servicebooking/client/MovieClient.java
+ co.com.poli.servicebooking.client.MovieClient
+co/com/poli/servicebooking/client/UserClient.java
+ co.com.poli.servicebooking.client.UserClient

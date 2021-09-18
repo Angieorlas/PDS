@@ -1,0 +1,12 @@
+rootProject.name = 'PDS-multiproject'
+
+include 'service-movie'
+include 'service-user'
+include 'service-showtimes'
+include 'service-booking'
+
+include 'commonslibrary'
+include 'service-config'
+include 'service-register'
+include 'service-gateway'
+include 'service-admin'
